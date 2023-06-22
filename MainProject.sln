@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MainProject", "MainProject\MainProject.vbproj", "{B29E8198-831A-4915-985E-5CA87857682B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A0E0F6D1-B204-4EB7-91D2-C8979017EA81}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B29E8198-831A-4915-985E-5CA87857682B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29E8198-831A-4915-985E-5CA87857682B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29E8198-831A-4915-985E-5CA87857682B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29E8198-831A-4915-985E-5CA87857682B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
